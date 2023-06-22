@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, seja bem vindo ao meu perfil do GitHub</h1>
 
-<img src="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@400;500;600;700&family=Sora:wght@100&display=swap" rel="stylesheet">
 
 
 
