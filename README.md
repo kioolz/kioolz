@@ -1,7 +1,7 @@
 <h1 align="center"> Olá, seja bem vindo ao meu perfil do GitHub</h1>
-<style>
+
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
-</style>
+
 
 <h2> Me chamo Caio, tenho 29 anos e sou da cidade de Mesquita, localizada na baixada fluminense no estado do Rio de Janeiro, atualmente sou aluno de graduação do consórcio CEDERJ-UFF no curso de Tecnólogo em Sistemas da Computação. Fique a vontade para explorar meu perfil e meus repositórios. </h3> 
 
