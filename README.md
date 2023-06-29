@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-family: verdana"> Olá, seja bem vindo ao meu perfil do GitHub</h1>
+<h1 align="center" style="font-family:verdana;"> Olá, seja bem vindo ao meu perfil do GitHub</h1>
 
 
 <h2> Me chamo Caio, tenho 29 anos e sou da cidade de Mesquita, localizada na baixada fluminense no estado do Rio de Janeiro, atualmente sou aluno de graduação do consórcio CEDERJ-UFF no curso de Tecnólogo em Sistemas da Computação. Fique a vontade para explorar meu perfil e meus repositórios. </h3> 
