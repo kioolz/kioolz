@@ -29,12 +29,12 @@
       <b>Estágio em Desenvolvimento FullStack</b><br>
       <a href="https://redeveiculos.com">Rede Veículos</a> • Full-time<br>
       Linguagens & Tecnologias: 
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="15"/></code>
-      <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" height="15"/></code>
+      <!-- <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="15"/></code>
+      <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" height="15"/></code> -->
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="15"/></code>
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="15"/></code>
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="15"/></code>
       <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" height="15"/></code>
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="15"/></code>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="15"/></code>
       <br>
     </td>
   </tr>
