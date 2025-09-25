@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
 </div>
 
-## Experiência de trabalho - Na visão geral abaixo você encontrará minha experiência de trabalho mais recente
+## Experiência de trabalho - Aqui você encontra os locais por onde passei!
 
 <table>
   <tr>
