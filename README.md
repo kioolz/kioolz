@@ -1,5 +1,5 @@
 # Olá! 👋 
-## Meu nome é Caio, sou um desenvolvedor FullStack! Apaixonado por soluções criativas e novas tecnologias
+## Meu nome é Caio, sou um desenvolvedor fullstack apaixonado por soluções criativas e novas tecnologias
 ### Tenho experiência com linguagens de desenvolvimento Front-end e Back-end. 
 
 
